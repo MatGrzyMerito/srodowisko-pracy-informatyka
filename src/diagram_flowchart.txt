@@ -1,0 +1,30 @@
+START APLIKACJI
+       |
+       v
+[ EKRAN LOGOWANIA ]
+       |
+       +-------------------------+
+       |                         |
+       v                         v
+[ DODAJ NOWĄ ROŚLINĘ ]    [ LISTA ROŚLIN ]
+       |                         |
+       v                         v
+( Wybór gatunku )         ( Kliknięcie w roślinę )
+       |                         |
+       v                         v
+[ USTAW HARMONOGRAM ]     [ SZCZEGÓŁY I HISTORIA ]
+       |                         |
+       v                         v
+( Zapisz do bazy )        ( Oznacz jako podlane )
+       |                         |
+       +-------------------------+
+       |
+       v
+KONIEC (WYJŚCIE)
+
+Legenda:
+- Użytkownik uzyskuje dostęp do funkcji po przejściu autoryzacji (Ekran Logowania).
+- Ścieżka "Dodaj nową roślinę" definiuje reguły dla "Ustaw Harmonogram" (częstotliwość powiadomień).
+- Sekcja "Lista roślin" daje wgląd w aktualny stan i historię pielęgnacji.
+- Akcja "Oznacz jako podlane" resetuje licznik w harmonogramie i aktualizuje bazę danych.
+- Zapisanie lub wykonanie zadania kończy bieżącą sesję użytkownika.
