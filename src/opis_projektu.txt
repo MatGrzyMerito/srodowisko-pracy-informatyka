@@ -1,0 +1,4 @@
+Projekt to aplikacja mobilna "Zielony Dom", która pomaga domownikom dbać o rośliny doniczkowe. 
+Rozwiązuje problem usychania kwiatów z powodu zapominania o podlewaniu lub przelania ich. 
+Odbiorcą są hobbyści oraz osoby zapracowane, które chcą mieć zielone mieszkanie bez stresu. 
+W aplikacji znajdą się: baza roślin, harmonogram podlewania oraz powiadomienia "push" przypominające o pielęgnacji.
