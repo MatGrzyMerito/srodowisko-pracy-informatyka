@@ -1,0 +1,18 @@
+Słowa kluczowe:
+- natura, zieleń, spokój, nawadnianie, notyfikacje, smart home, ekologia.
+
+Krótka lista elementów projektu:
+- ekran powitalny z dzisiejszymi zadaniami,
+- skaner kodów QR na doniczkach (opcja 'future'),
+- prosty poradnik "jak nie zabić kaktusa".
+
+Wstępne dane wejściowe (Kategorie roślin):
+1. Sukulenty (mało wody)
+2. Paprocie (dużo wilgoci)
+3. Zioła kuchenne (codzienna pielęgnacja)
+4. Palmy domowe
+
+Źródła pomysłu:
+- Własna potrzeba: uschła mi bazylia w kuchni.
+- Znajoma: szukała aplikacji, która rozpozna roślinę po zdjęciu.
+- Pinterest: trendy "Urban Jungle".
